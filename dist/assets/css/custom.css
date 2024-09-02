@@ -170,3 +170,8 @@ dialog::backdrop {
         transform: translateX(0);
     }
 }
+
+a {
+    color: rgba(52, 211, 153, var(--tw-text-opacity));
+    text-decoration: underline;
+}
