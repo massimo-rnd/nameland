@@ -1,37 +1,20 @@
-![Repo-Image](https://druffko.gg/github-images/nameland.png)
+![Repo-Image](https://massimo.gg/github-images/nameland.webp)
 
 <div align="center">
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/druffko/nameland?include_prereleases)
+# Nameland
 
-![.NET Version](https://img.shields.io/badge/jquery-3.7.1-brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/druffko/nameland)
-
-  <br>
-
-  ![GitHub All Releases](https://img.shields.io/github/downloads/druffko/nameland/total)
-  ![GitHub closed issues](https://img.shields.io/github/issues-closed/druffko/nameland)
-  ![GitHub issues](https://img.shields.io/github/issues/druffko/nameland)
-  
-  <h1>Nameland</h1>
-  <p>
-    Business name generator like namelix.com with namecheap domain registration
-  </p>
+![License](https://img.shields.io/github/license/massimo-rnd/nameland)
+![Issues](https://img.shields.io/github/issues/massimo-rnd/nameland)
+![Forks](https://img.shields.io/github/forks/massimo-rnd/nameland)
+![Stars](https://img.shields.io/github/stars/massimo-rnd/nameland)
+![Last Commit](https://img.shields.io/github/last-commit/massimo-rnd/nameland)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/massimo-rnd/nameland?include_prereleases)
 </div>
 
-## Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## 🚀 Overview
 
----
-
-## About
-
-Nameland is a Business name generator like namelix.com with namecheap domain registration
+Nameland is a business name generator like Namelix.com with Namecheap domain registration.
 
 This project wouldn't be what it is, if it wasn't for the great work of the original creators.
 
@@ -41,45 +24,55 @@ I just forked this, tweaked it a bit and am now hosting it on nameland.xyz.
 -  [gxvr](https://github.com/gxvr/)
 -  [rstacruz](https://github.com/rstacruz/)
 
+## 🎯 Features
+
+- Name generation from a single word
+- Lot's of ideas to choose from
+- Linking to namecheap for domain registratrion
+- Mobile-Optimized
+
+## 🛠️ Installation
+
+1. Clone the repository into your /var/www/ folder:
+   ```bash
+   cd /var/www/
+   git clone https://github.com/massimo-rnd/nameland.git
+   ```
+2. Create new Apache Virtualhost config
+3. Visit your site
+
+## 💻 Usage
+
+Usage of Nameland is very simple.
+
+Navigate to the site, enter a word and hit generate.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the [issues page](https://github.com/massimo-rnd/nameland/issues).
+
+1. Fork the project.
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a pull request.
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 📊 Repository Metrics
+
+![Repo Size](https://img.shields.io/github/repo-size/massimo-rnd/nameland)
+![Contributors](https://img.shields.io/github/contributors/massimo-rnd/nameland)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/massimo-rnd/nameland)
+
 ---
 
-## Features
+### 📞 Contact
 
-- ✅ Generate Names from a single word
-- ✅ Links to Namecheap for Domain registration
-
----
-
-## Usage
-
-### Getting started
-Just visit [nameland.xyz](https://nameland.xyz) and try it out!
-
----
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-name`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature-name`)
-5. Open a pull request
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Contact
-
-- **druffko** - [@druffko](https://twitter.com/druffko) - hi@druffko.gg
-- **Project Link** - https://github.com/druffko/nameland
-
-Feel free to reach out if you have any questions or suggestions!
-
----
+For any inquiries, feel free to reach out:
+- email: [hi@massimo.gg](mailto:hi@massimo.gg)
+- X: [massimo-rnd](https://x.com/massimo-rnd)
+- [Discord](https://discord.gg/wmC5AA6c)
